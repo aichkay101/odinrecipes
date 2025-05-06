@@ -1,1 +1,1 @@
-# odinrecipes
+This project is about practicing the basics of HTML form ODIN PROJECT and create the receipes blog
